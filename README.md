@@ -2,13 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=GenAI+Software+Developer;Machine+Learning+Engineer;Full+Stack+Developer;RAG+%26+Agentic+AI+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=GenAI+Software+Developer;Machine+Learning+Engineer;Full+Stack+Developer;RAG+%26+Agentic+AI+Specialist)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-2E9EF7?style=for-the-badge">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-0366D6?style=for-the-badge">
   <img alt="Role Badge" src="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-2E9EF7?style=for-the-badge">
 </picture>
+
+**Expert in Machine Learning, NLP, Generative AI, RAG, AWS Deployment, OCR and Data Solutions with strong data wrangling & preprocessing**
+
+🏢 Sedin Technologies &nbsp;·&nbsp; 📍 Chennai, India
 
 </div>
 
@@ -34,7 +38,7 @@
 class SiranjeeviV:
     def __init__(self):
         self.role = "GenAI-Focused Software Developer"
-        self.location = "India 🇮🇳"
+        self.location = "Chennai, India 🇮🇳"
         self.education = "B.E. Electronics & Communication Engineering"
         self.languages = ["Python", "JavaScript", "TypeScript", "SQL"]
         
@@ -137,7 +141,7 @@ print(me.mission())
 <tr>
 <td width="30%" align="center">
 
-### 🚀 Tarka Labs
+### 🚀 Sedin Technologies
 **Software Developer**  
 *June 2025 - Present*
 
@@ -331,15 +335,15 @@ print(me.mission())
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0366D6&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siranjeevi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0366D6&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0366D6&text_color=24292F&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0366D6&text_color=24292F&bg_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </picture>
 
 </div>
@@ -347,9 +351,9 @@ print(me.mission())
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=siranjeevi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=siranjeevi&theme=default&hide_border=true&background=FFFFFF&ring=0366D6&fire=F66A0A&currStreakLabel=24292F" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siranjeevi&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=default&hide_border=true&background=FFFFFF&ring=0366D6&fire=F66A0A&currStreakLabel=24292F" />
+  <img src="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true" />
 </picture>
 
 </div>
@@ -359,9 +363,9 @@ print(me.mission())
 ### 🏆 GitHub Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=siranjeevi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </picture>
 
 </div>
@@ -429,10 +433,10 @@ graph TB
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siranjeevi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siranjeevi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siranjeevi@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siranjeevi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siranjeevi-v-90b325235)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siranjeevi2001)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siranjeevi1082001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siranjeevi2001.github.io/)
 
 <br>
 
@@ -446,18 +450,12 @@ graph TB
 
 <br>
 
-### 🐍 Contribution Activity
-
-![Snake animation](https://github.com/siranjeevi/siranjeevi/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
 ### 👀 Profile Views
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=siranjeevi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=siranjeevi&color=0366D6&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://komarev.com/ghpvc/?username=siranjeevi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=siranjeevi2001&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=siranjeevi2001&color=0366D6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=siranjeevi2001&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </picture>
 
 </div>
@@ -466,9 +464,20 @@ graph TB
 
 <div align="center">
 
-### 📌 Pinned Repositories
+### 📌 Open-Source Projects
 
-*Check out my pinned repositories below for my best work! ⭐*
+| Project | What it does | Tech |
+|---------|--------------|------|
+| [Chatbot-React](https://github.com/siranjeevi2001/Chatbot-React) | Multi-agent chatbot with a Python backend and React frontend | Agents, React, TypeScript, Docker |
+| [FastApi-learning](https://github.com/siranjeevi2001/FastApi-learning) | Learning FastAPI from beginner to master | Python, FastAPI |
+| [Singapore Resale Flat Prices](https://github.com/siranjeevi2001/Singapore-Resale-Flat-Prices-Predicting) | Resale flat price prediction app | Random Forest, scikit-learn, Streamlit |
+| [Retail Sales Prediction](https://github.com/siranjeevi2001/Retail-sales-prediction-using-ML-DL) | Retail sales prediction with an interactive dashboard | XGBoost, Streamlit |
+| [Industrial Copper Modeling](https://github.com/siranjeevi2001/Industrial-Copper-Modeling) | Copper price modeling app | scikit-learn, Streamlit |
+| [Fake News Prediction](https://github.com/siranjeevi2001/-Fake-News-Prediction-using-Machine-Learning-NLP-with-Python-) | Fake news detection | NLP, ML, Jupyter |
+| [Brain Tumor Detection](https://github.com/siranjeevi2001/-Brain-Tumor-Detection-using-CNN-in-Deep-learning-) | Brain tumor detection from images | CNN, Deep Learning |
+| [Business Card OCR](https://github.com/siranjeevi2001/Extracting-Business-Card-Data-with-OCR) | Business card data extraction into a database | EasyOCR, Streamlit, SQL |
+| [PhonePe Pulse Visualization](https://github.com/siranjeevi2001/Phonepe-Pulse-Data-Visualization-and-Exploration) | PhonePe Pulse data exploration dashboard | Pandas, MySQL, Plotly, Streamlit |
+| [YouTube Data Harvesting](https://github.com/siranjeevi2001/youtube-data-harvesting-Warehousing-using-API-SQL-and-Streamlit) | YouTube API data harvesting & warehousing | API, SQL, Streamlit |
 
 <br>
 
