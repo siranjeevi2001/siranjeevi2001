@@ -1,32 +1,23 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Siranjeevi V
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=GenAI+Software+Developer;Machine+Learning+Engineer;Full+Stack+Developer;RAG+%26+Agentic+AI+Specialist)](https://git.io/typing-svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-2E9EF7?style=for-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-0366D6?style=for-the-badge">
-  <img alt="Role Badge" src="https://img.shields.io/badge/AI%20Engineer-Building%20Intelligent%20Systems-2E9EF7?style=for-the-badge">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Siranjeevi%20V&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20(AI%2FML)%20%E2%80%A2%20GenAI%20%E2%80%A2%20Agentic%20AI&descSize=20&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0366D6,100:58A6FF&height=220&section=header&text=Siranjeevi%20V&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20(AI%2FML)%20%E2%80%A2%20GenAI%20%E2%80%A2%20Agentic%20AI&descSize=20&descAlignY=58&animation=fadeIn" />
+  <img width="100%" alt="Siranjeevi V" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Siranjeevi%20V&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20(AI%2FML)%20%E2%80%A2%20GenAI%20%E2%80%A2%20Agentic%20AI&descSize=20&descAlignY=58&animation=fadeIn" />
 </picture>
 
-**Expert in Machine Learning, NLP, Generative AI, RAG, AWS Deployment, OCR and Data Solutions with strong data wrangling & preprocessing**
-
-🏢 Sedin Technologies &nbsp;·&nbsp; 📍 Chennai, India
-
-</div>
-
-<br>
-
 <div align="center">
-  
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🤖 Building Intelligent Systems with GenAI & LLMs           ║
-║  🚀 Transforming Ideas into Production-Grade AI Solutions    ║
-║  ⚡ Passionate about RAG, Agentic AI & ML Innovation         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=640&lines=GenAI-focused+Software+Developer;Multi-Agent+Workflows+%7C+LangGraph+%7C+DSPy;Hybrid+RAG+%7C+OpenSearch+%7C+Vector+DBs;LLM+Fine-tuning+with+LoRA+%26+QLoRA)](https://git.io/typing-svg)
+
+*Expert in Machine Learning, NLP, Generative AI, RAG, AWS Deployment, OCR and Data Solutions with strong data wrangling & preprocessing*
+
+![Sedin Technologies](https://img.shields.io/badge/Sedin_Technologies-Tarka_Labs-1F6FEB?style=flat-square)
+![Chennai](https://img.shields.io/badge/Chennai-India-FF9933?style=flat-square&logo=googlemaps&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-3_years_in_AI%2FML-3FB950?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=siranjeevi2001&color=58A6FF&style=flat-square&label=Profile+views)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siranjeevi-v-90b325235)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siranjeevi1082001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://siranjeevi2001.github.io/)
 
 </div>
 
@@ -34,102 +25,153 @@
 
 ## 🎯 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+GenAI-focused **Software Developer** with **3 years** of professional experience in AI/ML and software development, specializing in **Generative AI, Agentic AI, LLM applications and backend engineering**.
+
+- 🤖 I build **multi-agent workflows**, **RAG pipelines**, **autonomous web research & lead qualification** systems, **NL-to-SQL** apps and **RFP intelligence** platforms
+- 🧪 Hands-on with **LLM fine-tuning** using **LoRA / QLoRA**: dataset prep, prompt engineering, evaluation and optimization
+- ⚙️ Strong in **Python, FastAPI, LangGraph, DSPy**, vector databases, **OpenSearch, PostgreSQL, Redis** and **AWS**
+- 🖥️ Build AI app frontends with **React, Next.js and TypeScript**
+- 📫 Reach me on **LinkedIn** or by **Email**
+
+</td>
+<td width="45%" valign="top">
+
 ```python
 class SiranjeeviV:
-    def __init__(self):
-        self.role = "GenAI-Focused Software Developer"
-        self.location = "Chennai, India 🇮🇳"
-        self.education = "B.E. Electronics & Communication Engineering"
-        self.languages = ["Python", "JavaScript", "TypeScript", "SQL"]
-        
-        self.current_focus = [
-            "🎯 Building Agentic AI Systems",
-            "🔍 Advanced RAG Architectures", 
-            "💬 NL-to-SQL Generation",
-            "🚀 LLM Optimization & Fine-tuning"
-        ]
-        
-    def get_expertise(self):
-        return {
-            "GenAI & LLMs": {
-                "frameworks": ["LangChain", "DSPY", "Hugging Face"],
-                "techniques": ["RAG", "Hybrid RAG", "Agentic AI"],
-                "skills": ["Prompt Engineering", "ReAct", "CoT", "ToT"]
-            },
-            "ML & DL": ["CNN", "RNN", "LSTM", "YOLOv7", "NLP", "OCR"],
-            "Backend": ["Python", "FastAPI", "REST APIs", "SQL Alchemy"],
-            "Frontend": ["React.js", "TypeScript", "JavaScript", "Tailwind"],
-            "Databases": ["PostgreSQL", "Redis", "FAISS", "ChromaDB", "Pinecone"],
-            "Cloud & DevOps": ["AWS", "Docker", "Lambda", "EC2", "S3"]
-        }
-    
-    def mission(self):
-        return "Delivering production-grade AI solutions that drive real impact! 🎯"
+    role = "Software Developer (AI/ML)"
+    company = "Sedin Technologies (Tarka Labs)"
+    location = "Chennai, India 🇮🇳"
+    experience_years = 3
 
-# Initialize
-me = SiranjeeviV()
-print(me.mission())
+    focus = [
+        "Multi-agent workflows",
+        "Hybrid RAG & retrieval",
+        "LLM fine-tuning (LoRA/QLoRA)",
+        "Async AI backends",
+    ]
+
+    def mission(self):
+        return "Ship AI that drives real impact 🎯"
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🧠 GenAI & LLMs
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</picture>
+<table>
+<tr>
+<td align="center" width="24%"><b>🧠 LLMs & GenAI</b></td>
+<td>
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-6B46C1?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=ai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square&logoColor=white)
-![DSPY](https://img.shields.io/badge/DSPY-6B46C1?style=flat-square&logoColor=white)
-
-### 💻 Programming & Frameworks
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,html,css,tailwind&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,html,css,tailwind&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,html,css,tailwind" />
-</picture>
-
-### 🗄️ Databases & Vector Stores
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" />
-</picture>
-
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,git,linux,nginx&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,git,linux,nginx&theme=light">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,nginx" />
-</picture>
-
-### 🤖 AI/ML Tools
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,sklearn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,sklearn&theme=light">
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
-</picture>
-
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔍 RAG & Vector DBs</b></td>
+<td>
+
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-FF6B6B?style=flat-square)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-00A3CC?style=flat-square)
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-3FB950?style=flat-square)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧪 Fine-tuning & DL</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-14B789?style=flat-square)
+![LoRA / QLoRA / PEFT](https://img.shields.io/badge/LoRA_·_QLoRA_·_PEFT-6E40C9?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![Transformers · CNN · RNN · LSTM](https://img.shields.io/badge/Transformers_·_CNN_·_RNN_·_LSTM-FF6F00?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend & APIs</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,graphql" />
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Strawberry GraphQL](https://img.shields.io/badge/Strawberry_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🖥️ Frontend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud & DevOps</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+![EC2 · S3 · Lambda · API Gateway](https://img.shields.io/badge/EC2_·_S3_·_Lambda_·_API_Gateway-FF9900?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square)
+![RunPod](https://img.shields.io/badge/RunPod_GPU-673AB7?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>📊 Data & EDA</b></td>
+<td>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -137,334 +179,149 @@ print(me.mission())
 
 ## 💼 Professional Journey
 
-<table>
-<tr>
-<td width="30%" align="center">
-
-### 🚀 Sedin Technologies
-**Software Developer**  
-*June 2025 - Present*
-
-</td>
-<td width="70%">
-
-**🎯 Key Contributions:**
-- Built GenAI-based **NL-to-SQL system** enabling natural language database querying
-- Implemented **agent-based orchestration** with ReAct, CoT, and ToT prompting techniques
-- Designed robust **validation & error-handling** logic for edge cases
-- Deployed production system on **AWS EC2** with Caddy web server
-- Contributed to **React.js frontend** development
-
-**💡 Tech Stack:** `LangChain` `FastAPI` `React.js` `AWS EC2` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="30%" align="center">
-
-### 🤖 Frost & Sullivan
-**AI Engineer**  
-*July 2024 - June 2025*
-
-</td>
-<td width="70%">
-
-**🎯 Key Contributions:**
-- Designed **production-grade GenAI systems** for research automation
-- Built **RAG, Hybrid RAG, and Agentic RAG** applications
-- Developed **context-aware research assistants** with LLaMA models
-- Achieved **50% reduction** in analyst effort through automation
-- Optimized infrastructure, **reducing costs by 60%**
-- Built **ETL pipelines** for geospatial data analysis with GeoPandas
-
-**💡 Tech Stack:** `LangChain` `RAG` `AWS Lambda` `Redis` `ChromaDB` `FAISS`
-
-</td>
-</tr>
-<tr>
-<td width="30%" align="center">
-
-### 🏭 ZF Rane Automotive
-**Python Developer**  
-*June 2023 - Jan 2024*
-
-</td>
-<td width="70%">
-
-**🎯 Key Contributions:**
-- Developed **OCR-based product label validation** system
-- Built **AI-powered safety monitoring** with YOLOv7 & CNN
-- Achieved **90% PPE detection accuracy** in production
-- Integrated AI with **manufacturing systems** for safety compliance
-- Designed secure internal **QA web application**
-
-**💡 Tech Stack:** `YOLOv7` `PyTesseract` `OpenCV` `CNN` `Flask`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Impact & Achievements
-
 <div align="center">
 
-<table>
-<tr>
-<th>📊 Metric</th>
-<th>💯 Achievement</th>
-<th>🎯 Project</th>
-<th>🔧 Technology</th>
-</tr>
-<tr>
-<td><b>50%</b></td>
-<td>Analyst Effort Reduction</td>
-<td>Research Automation</td>
-<td>RAG + LangChain</td>
-</tr>
-<tr>
-<td><b>60%</b></td>
-<td>Infrastructure Cost Savings</td>
-<td>LLM Optimization</td>
-<td>Prompt Engineering + AWS</td>
-</tr>
-<tr>
-<td><b>90%</b></td>
-<td>Detection Accuracy</td>
-<td>Industrial Safety AI</td>
-<td>YOLOv7 + CNN</td>
-</tr>
-<tr>
-<td><b>100%</b></td>
-<td>Label Validation Automation</td>
-<td>OCR QA System</td>
-<td>PyTesseract + OpenCV</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 NL-to-SQL Agentic System
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-<img src="https://img.shields.io/badge/GenAI-Advanced-blue?style=flat-square" />
-
-**Description:** Advanced GenAI system converting natural language queries to optimized SQL
-
-**Key Features:**
-- ⚙️ Agent-based orchestration
-- 🧠 ReAct & Chain-of-Thought prompting
-- 🛡️ Production-grade error handling
-- 🚀 Real-time query execution
-
-**Tech:** `LangChain` `FastAPI` `PostgreSQL` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Hybrid RAG Research Assistant
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Impact-50%25_Time_Saved-orange?style=flat-square" />
-
-**Description:** Context-aware AI assistant automating secondary research workflows
-
-**Key Features:**
-- 🎯 Multi-stage retrieval pipeline
-- 🔎 Vector search + reranking
-- 💾 Session memory with Redis
-- 📊 Real-time data synthesis
-
-**Tech:** `LLaMA` `ChromaDB` `Redis` `LangChain`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Industrial Safety Monitor
-<img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Accuracy-90%25-green?style=flat-square" />
-
-**Description:** Real-time AI-powered safety compliance monitoring system
-
-**Key Features:**
-- 🎥 Real-time video processing
-- 👷 PPE compliance detection
-- ⚠️ Automatic alert system
-- 🏭 Manufacturing integration
-
-**Tech:** `YOLOv7` `OpenCV` `CNN` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 OCR Label Validator
-<img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-100%25-brightgreen?style=flat-square" />
-
-**Description:** Automated product label validation for manufacturing QA
-
-**Key Features:**
-- 📸 Image-based OCR extraction
-- ✅ Real-time validation logic
-- 🔍 Duplicate detection
-- 🌐 Internal web dashboard
-
-**Tech:** `PyTesseract` `OpenCV` `Flask` `Python`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0366D6&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siranjeevi2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=0366D6&text_color=24292F&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siranjeevi2001&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-</picture>
-
-</div>
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=default&hide_border=true&background=FFFFFF&ring=0366D6&fire=F66A0A&currStreakLabel=24292F" />
-  <img src="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true" />
-</picture>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=siranjeevi2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</picture>
-
-</div>
-
----
-
-## 🎓 Expertise Areas
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#58A6FF','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#58A6FF','secondaryColor':'#161B22','tertiaryColor':'#0D1117'}}}%%
-graph TB
-    A[GenAI & LLMs] --> B[RAG Systems]
-    A --> C[Prompt Engineering]
-    A --> D[Agentic AI]
-    B --> E[Vector Databases]
-    C --> F[ReAct/CoT/ToT]
-    D --> G[Multi-Agent Systems]
-    E --> H[Production Deployment]
-    F --> H
-    G --> H
-    H --> I[Real-World Impact]
-    
-    style A fill:#58A6FF,stroke:#1F6FEB,stroke-width:3px,color:#000
-    style I fill:#3FB950,stroke:#2EA043,stroke-width:3px,color:#000
-    style H fill:#F78166,stroke:#DA3633,stroke-width:2px,color:#000
+```text
+ Jul 2023 ──────────────── Jul 2024 ──────────────── Jun 2025 ──────────────── Now
+    │                         │                         │
+    ●  ZF Rane Automotive     ●  Frost & Sullivan       ●  Sedin Technologies (Tarka Labs)
+       Python Developer          AI Engineer               Software Developer (AI/ML)
 ```
 
 </div>
 
----
+### 🟢 Sedin Technologies (Tarka Labs)
 
-## 🌟 Current Focus & Learning
+**Software Developer (AI/ML)** · Full time · Chennai &nbsp;![Jun 2025 – Present](https://img.shields.io/badge/Jun_2025_–_Present-3FB950?style=flat-square)
 
-<div align="center">
+**US client project: RFP intelligence platform**
+- Architected a **DSPy-based multi-stage agent pipeline** for automated prospect research, point-of-view generation and strategic RFP brief creation, with **provenance tracking and automated quality validation**
+- Engineered a **hybrid vector + keyword retrieval pipeline** using **OpenAI embeddings and OpenSearch**, turning unstructured enterprise documents into domain-specific knowledge bases for agentic workflows
+- Re-engineered document ingestion, replacing heavyweight vision/OCR models with a **CPU-optimized PyMuPDF/pdfplumber pipeline** and cutting the AI container size by **75% (~2.5 GB)**
 
-| 🎯 Area | 📚 Topics | 🛠️ Tools & Frameworks |
-|---------|-----------|------------------------|
-| **Advanced RAG** | Hybrid retrieval, Agentic workflows, Context optimization | LangChain, FAISS, ChromaDB |
-| **LLM Engineering** | Fine-tuning, Prompt optimization, Inference speed | OpenAI API, Hugging Face, DSPY |
-| **Production AI** | Scalability, Monitoring, Cost optimization | AWS, Docker, FastAPI |
-| **Emerging Tech** | Multimodal LLMs, Tool use, Agent frameworks | Latest GenAI tools |
+**Internal platforms & POCs**
+- Developed a **GenAI NL-to-SQL platform** using **LangGraph multi-agent workflows** to turn natural-language questions into validated SQL and business insights
+- Built **asynchronous AI backend services** with **FastAPI, Celery, Redis and PostgreSQL** for background tasks, job orchestration and caching
+- Developed **real-time agent workflow visualization** interfaces with **React, Next.js and TypeScript**
+- Ran **Qwen fine-tuning experiments** with **Unsloth, LoRA and QLoRA**, evaluating response quality and hallucination rates against RAG baselines
 
-</div>
+![DSPy](https://img.shields.io/badge/DSPy-6B46C1?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-14B789?style=flat-square)
 
----
+### 🔵 Frost & Sullivan
 
-## 💡 Technical Writing & Knowledge Sharing
+**Artificial Intelligence Engineer** · Full time · Chennai &nbsp;![Jul 2024 – Jun 2025](https://img.shields.io/badge/Jul_2024_–_Jun_2025-1F6FEB?style=flat-square)
 
-<div align="center">
+- Designed and deployed **AI/ML-driven solutions** for automation, decision intelligence and process optimization
+- Developed and fine-tuned models using **RAG, LLMs, NLP and text-to-image generation**
+- Worked with **full-stack and DevOps teams** on API integration, scalable deployments and cloud optimization
+- Architected AI models with APIs for **real-time processing** and cross-platform interoperability
+- Researched and applied **cutting-edge ML techniques** to maximize performance and efficiency
 
-### 📝 Topics I'm Passionate About
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-00A3CC?style=flat-square)
+![Text-to-Image](https://img.shields.io/badge/Text--to--Image-F78166?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
-[![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-2E9EF7?style=for-the-badge&logo=ai&logoColor=white)](#)
-[![Agentic AI](https://img.shields.io/badge/Agentic_AI-9B59B6?style=for-the-badge&logo=robot&logoColor=white)](#)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E74C3C?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![LLM Optimization](https://img.shields.io/badge/LLM_Optimization-27AE60?style=for-the-badge&logo=python&logoColor=white)](#)
+### ⚪ ZF Rane Automotive India
 
-</div>
+**Python Developer** · Independent contractor · Chennai &nbsp;![Jul 2023 – Jan 2024](https://img.shields.io/badge/Jul_2023_–_Jan_2024-6E7681?style=flat-square)
 
----
+- Developed a **real-time OCR system** for automated label validation
+- Built a **CNN-based safety compliance** detection model
+- Implemented **XML-based image matching** for industrial part validation
+- Automated **quality inspection** with AI-driven image processing
+- Deployed AI models on an internal server with **FastAPI** integration
 
-## 💬 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siranjeevi-v-90b325235)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siranjeevi2001)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siranjeevi1082001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siranjeevi2001.github.io/)
-
-<br>
-
-### 💭 Random Dev Wisdom
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</picture>
-
-<br>
-
-### 👀 Profile Views
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=siranjeevi2001&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=siranjeevi2001&color=0366D6&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://komarev.com/ghpvc/?username=siranjeevi2001&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</picture>
-
-</div>
+![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-<div align="center">
+## 🔥 Featured Work
 
-### 📌 Open-Source Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📑 RFP Intelligence Platform
+![US client](https://img.shields.io/badge/US_client-1F6FEB?style=flat-square) ![75% smaller container](https://img.shields.io/badge/75%25_smaller_container-3FB950?style=flat-square)
+
+Multi-stage **DSPy** agent pipeline for prospect research, web intelligence, POV generation and RFP briefs. Multi-tenant document intelligence with **hybrid vector/keyword retrieval**, fail-closed **PII redaction** and org-level access control.
+
+`DSPy` `OpenSearch` `FastAPI` `Strawberry GraphQL` `Celery` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 AI Lead Research & Qualification
+![Multi-agent](https://img.shields.io/badge/Multi--agent-6B46C1?style=flat-square)
+
+**LangGraph** supervisor + ReAct workers that autonomously scrape the web, extract entities and score leads against campaign rules. Async job pipeline, **MLflow** LLM observability and a live **@xyflow/react** agent graph with JWT + RBAC.
+
+`LangGraph` `FastAPI` `Celery` `Redis` `MLflow` `React 19`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Agentic Financial Analysis Chatbot
+![NL-to-SQL](https://img.shields.io/badge/NL--to--SQL-0366D6?style=flat-square)
+
+Agentic chatbot that answers complex financial questions with a **multi-agent NL-to-SQL** pipeline over a data warehouse, producing structured, data-driven analysis.
+
+`Multi-agent` `NL-to-SQL` `Data Warehouse`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Domain-Specific LLM (Qwen Fine-tuning)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA_·_QLoRA-6E40C9?style=flat-square)
+
+Fine-tuned **Qwen** with **Unsloth** on internal support data, docs and FAQs to build a context-aware enterprise assistant, benchmarked on hallucination and relevance against RAG baselines.
+
+`Qwen` `Unsloth` `LoRA` `QLoRA` `PEFT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 AI Voice Cloning & Music Generation
+![Conference demo](https://img.shields.io/badge/Conference_demo-F78166?style=flat-square)
+
+Voice cloning system that generates personalized songs from a user's voice, shipped as an interactive mini-game with real-time voice input. Led it end to end, from model integration to cloud deployment.
+
+`Voice cloning` `Real-time audio` `Full stack` `Cloud`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Industrial OCR & Safety Vision
+![Manufacturing](https://img.shields.io/badge/Manufacturing-6E7681?style=flat-square)
+
+Real-time OCR label validation, CNN-based safety compliance detection and XML-based image matching for part validation at ZF Rane Automotive.
+
+`OCR` `CNN` `OpenCV` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Open-Source Projects
 
 | Project | What it does | Tech |
 |---------|--------------|------|
@@ -479,26 +336,79 @@ graph TB
 | [PhonePe Pulse Visualization](https://github.com/siranjeevi2001/Phonepe-Pulse-Data-Visualization-and-Exploration) | PhonePe Pulse data exploration dashboard | Pandas, MySQL, Plotly, Streamlit |
 | [YouTube Data Harvesting](https://github.com/siranjeevi2001/youtube-data-harvesting-Warehousing-using-API-SQL-and-Streamlit) | YouTube API data harvesting & warehousing | API, SQL, Streamlit |
 
-<br>
+---
 
-**💡 Pro Tip:** If you find my projects helpful, consider giving them a ⭐  
-**🤝 Open to:** Collaborations, Open Source contributions, and interesting AI projects!  
-**📫 Best way to reach me:** LinkedIn DM or Email
+## 🎓 Education & Certificates
 
-<br>
+<table>
+<tr>
+<td width="45%" valign="top">
+
+**B.E. Electronics & Communication Engineering**<br>
+Dhanalakshmi Srinivasan Institute of Technology, Tiruchirappalli<br>
+<sub>Jul 2019 – Jun 2023</sub>
+
+</td>
+<td width="55%" valign="top">
+
+- 🏅 IIT-M Advanced Programming Professional, Master Data Science · *Guvi*
+- 🏅 Data Analytics & Visualization Job Simulation · *Accenture*
+- 🏅 SQL (Intermediate) L2 · *HackerRank*
+- 🏅 Tableau · *Simplilearn SkillUp*
+- 🏅 Power BI Data Visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br>
+## 📈 GitHub Stats
 
-### 🎯 "Building the future, one AI model at a time"
-
-<br>
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=333&animation=twinkling&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siranjeevi2001&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siranjeevi2001&theme=github" />
+  <img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siranjeevi2001&theme=github_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siranjeevi2001&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siranjeevi2001&theme=github" />
+  <img width="32%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siranjeevi2001&theme=github_dark" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siranjeevi2001&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siranjeevi2001&theme=github" />
+  <img width="32%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siranjeevi2001&theme=github_dark" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siranjeevi2001&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siranjeevi2001&theme=github" />
+  <img width="32%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siranjeevi2001&theme=github_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=default&hide_border=true&background=FFFFFF&ring=0366D6&fire=F66A0A&currStreakLabel=24292F" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=siranjeevi2001&theme=github-dark-blue&hide_border=true" />
 </picture>
 
 </div>
+
+---
+
+<div align="center">
+
+**💡 If you find my projects helpful, consider giving them a ⭐**
+
+*"Building the future, one AI model at a time"*
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0366D6&height=120&section=footer" />
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
+</picture>
